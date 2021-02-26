@@ -6,4 +6,4 @@ Requirements:
 
 Proof of concept ONLY. 
 
-May not work on real website using reCaptcha protection - *minor modifications required to be fully functional on real websites - if you know you know*
+May not work on some websites using reCaptcha protection and bot detection - *minor modifications required to be fully functional - if you know you know*
