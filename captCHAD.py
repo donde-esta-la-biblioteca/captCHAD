@@ -68,10 +68,10 @@ def pwn_recaptcha():
                 click(Button('Submit'))
 
     wait_until(S('.g-recaptcha').exists)
-    print(S('.g-recaptcha').exists())
+#     print(S('.g-recaptcha').exists())
 
     wait_until(S('.recaptcha-checkbox-border').exists)
-    print(S('.recaptcha-checkbox-border').exists())
+#     print(S('.recaptcha-checkbox-border').exists())
 
     activate_recaptcha()
 
